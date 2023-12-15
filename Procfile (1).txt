@@ -1,0 +1,1 @@
+web: streamlit run streamlit app(2).py
